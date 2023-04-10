@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#texto{
+    position: absolute;
+width: 362px;
+height: 58px;
+left: 675px;
+top: 877px;
+
+font-family: 'Charis SIL', serif;
+font-style: normal;
+font-weight: 400;
+font-size: 109px;
+line-height: 58px;
+
+
+text-align: center;
+
+color: #fff;
+}
