@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section{
+    width: 50%;
+}
+.banda1 {
+    padding: 50px;
+    /* width: 50%; */
+}
+
+.container {
+    display: inline-block;
+    position: relative;
+}
+
+.container p {
+    position: absolute;
+    top: 700px;
+    right: 75%;
+    font-size: 12px;
+    color: white;
+    background-color: #090;
+    text-shadow: black;
+}
+
+.container .band1 {
+    position: absolute;
+    top: 300px;
+    right: 75%;
+    font-size: 12px;
+    color: white;
+    text-shadow: 0px 0px 5px black;
+}
+
+.container .aluno1 {
+    position: absolute;
+    top: 345px;
+    right: 75%;
+    font-size: 12px;
+    color: white;
+    text-shadow: 0px 0px 5px black;
+}
+
+.aluno {
+    top: 280px;
+    position: absolute;
+    width: 103px;
+    height: 103px;
+    right: 85%;
+    border-radius: 50%;
+}
+
+.banda2{
+    padding: 50px;
+    display: inline-block;
+    align-content: end;
+}
+.aluno2{
+    top: 376px;
+    width: 103px;
+    height: 103px;
+    border-radius: 50%;
+    position: absolute;
+    right: 40%;
+    
+}
+.banda2{
+    
+}
